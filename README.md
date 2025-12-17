@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=simurians.simurians&left_color=lightsteelblue&right_color=aliceblue&left_text=%E1%AF%A3%20%E2%80%B8%20%E1%AF%A3"  />
-</div>
 
 ###
 
