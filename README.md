@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img width="1212" height="2164" alt="Untitled166_20251115192246" src="https://github.com/user-attachments/assets/5328164a-9231-4425-aa2a-5e8007eee0b3" />
+<img width="3898" height="2551" alt="Untitled202_20260320170038" src="https://github.com/user-attachments/assets/0194c8f3-1297-4d32-9eb4-e58f159e3124" />
 
 
  [atabook](https://ilabmilowe.atabook.org/)‎ ‎  ‎ ‎ [rentry](https://rentry.co/rumerians)‎ ‎ ‎  [carrd](https://simurian.carrd.co)
